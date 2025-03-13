@@ -18,7 +18,7 @@ Content-Type: application/json
     "birthday": "May 14, 1999"
 }
 ### update
-Put https://cse341-xats.onrender.com/users/67cba64d8d16db7b01e7117f
+Put https://cse341-xats.onrender.com/users/67d2fb652f218e74c810fb2b
 Content-Type: application/json
 
 {
