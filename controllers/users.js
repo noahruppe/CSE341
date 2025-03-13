@@ -57,7 +57,7 @@ const updateUser = async(req, res) =>{
 
 const deleteUser = async(req, res) =>{
     const userId = new ObjectId(req.params.id);
-    const response = await mongodb.getDatabase().db().collection("user").remove({_id: userId}, true);
+    const response = await mongodb.getDatabase().db().collection("user").deleteOne({_id: userId});
 
     if(response.deletCount >0){
         res.status(204).send();

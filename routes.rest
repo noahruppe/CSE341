@@ -28,3 +28,7 @@ Content-Type: application/json
     "favoritecolor": "Blue",
     "birthday": "May 5, 1973"
 }
+
+
+### delete
+Delete https://cse341-xats.onrender.com/users/67d2fb652f218e74c810fb2b
