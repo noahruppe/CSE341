@@ -1,1 +1,6 @@
 GET https://cse341-xats.onrender.com/users
+
+
+
+Get https://cse341-xats.onrender.com/users/67cba64d8d16db7b01e7117f
+
