@@ -4,7 +4,7 @@ GET https://cse341-xats.onrender.com/users
 
 
 ### get single 
-Get https://cse341-xats.onrender.com/users/67cba64d8d16db7b01e7117f
+Get https://cse341-xats.onrender.com/users/67cba5c88d16db7b01e7117e
 
 ### create new
 POST https://cse341-xats.onrender.com/users
@@ -24,11 +24,11 @@ Content-Type: application/json
 {
     "firstname": "Ray",
     "lastname": "Ruppe",
-    "email": "ray1ruppe@yahoo.com",
+    "email": "ray2ruppe@yahoo.com",
     "favoritecolor": "Blue",
     "birthday": "May 5, 1973"
 }
 
 
 ### delete
-Delete https://cse341-xats.onrender.com/users/67d2fb652f218e74c810fb2b
+Delete https://cse341-xats.onrender.com/users/67d30076d43a4e016002c10a
