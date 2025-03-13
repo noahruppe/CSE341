@@ -1,6 +1,30 @@
+
+### get all
 GET https://cse341-xats.onrender.com/users
 
 
-
+### get single 
 Get https://cse341-xats.onrender.com/users/67cba64d8d16db7b01e7117f
 
+### create new
+POST https://cse341-xats.onrender.com/users
+Content-Type: application/json
+
+{
+    "firstname": "Noah",
+    "lastname": "Ruppe",
+    "email": "noah.ruppe30@gmail.com",
+    "favoritecolor": "Green",
+    "birthday": "May 14, 1999"
+}
+### update
+Put https://cse341-xats.onrender.com/users/67cba64d8d16db7b01e7117f
+Content-Type: application/json
+
+{
+    "firstname": "Ray",
+    "lastname": "Ruppe",
+    "email": "ray1ruppe@yahoo.com",
+    "favoritecolor": "Blue",
+    "birthday": "May 5, 1973"
+}
