@@ -31,4 +31,4 @@ Content-Type: application/json
 
 
 ### delete
-Delete https://cse341-xats.onrender.com/users/67d30076d43a4e016002c10a
+Delete https://cse341-xats.onrender.com/users/67d301ca84c35d58eebd0a73
