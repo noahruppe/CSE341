@@ -8,7 +8,7 @@
   "host": "https://cse341-xats.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https",
+    "http",
     "https"
   ],
   "paths": {
